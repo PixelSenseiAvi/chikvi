@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chikvi
-- 👀 I’m interested in the domain of Graphics and Image Processing
-- 🌱 I’m currently learning CUDA Programming
-- 💞️ I’m looking to collaborate on open-source, freelance projects.
+- 👀 I’m interested in the domain of Computer Graphics and Image Processing
+- 🌱 I’m currently learning RayTracing
+- 💞️ I’m looking to collaborate on open-source, freelance projects realtaed to Graphics.
 - 📫 How to reach me gargav@tcd.ie
 
 <!---
